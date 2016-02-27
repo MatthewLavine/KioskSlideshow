@@ -1,0 +1,13 @@
+body, html {
+  background: #FFFFFA;
+}
+
+.container {
+  height: 100%;
+  margin: 0 auto;
+  width:80%;
+}
+.bxslider {
+  margin-top: 0;
+  list-style-type: none;
+}
